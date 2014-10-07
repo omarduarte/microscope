@@ -1,0 +1,1 @@
+Meteor.subscribre("posts");
