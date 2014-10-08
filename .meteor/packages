@@ -6,3 +6,5 @@
 meteor-platform
 insecure
 pinglamb:bootstrap3
+iron:router
+
